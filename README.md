@@ -1,3 +1,3 @@
 # practice-demo
-This is my first Git Repository
-first Readme file
+This is my first Git Repository.<br>
+#first Readme file
